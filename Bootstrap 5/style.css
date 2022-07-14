@@ -1,0 +1,23 @@
+.jumbotron {
+    padding-top: 5rem;
+    background: url(1.1.jpg);
+    background-size: cover;
+}
+#about {
+    background-color: #037e59;
+}
+#gallery {
+    background-color: #000000;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#contact {
+    background: url(2.1.jpg);
+    background-size: cover;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    color: white;
+}
